@@ -2,9 +2,10 @@
   "name": "taller-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ejercicio1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ej1": "node --watch ejercicio1.js",
+    "ej2": "node --watch ejercicio2.js"
   },
   "keywords": [],
   "type": "commonjs",
